@@ -1,0 +1,37 @@
+Penn-Treebank Tag,Description,Universal Tag,Description
+CC,Coordinating conjunction,ADJ,adjective
+CD,Cardinal number,ADP,adposition
+DT,Determiner,ADV,adverb
+EX,Existential there,AUX,auxiliary
+FW,Foreign word,CONJ,conjunction
+IN,Preposition or subordinating conjunction,CCONJ,coordinating conjunction
+JJ,Adjective,DET,determiner
+JJR,"Adjective, comparative",INTJ,interjection
+JJS,"Adjective, superlative",NOUN,noun
+LS,List item marker,NUM,numeral
+MD,Modal,PART,particle
+NN,"Noun, singular or mass",PRON,pronoun
+NNS,"Noun, plural",PROPN,proper noun
+NNP,"Proper noun, singular",PUNCT,punctuation
+NNPS,"Proper noun, plural",SCONJ,subordinating conjunction
+PDT,Predeterminer,SYM,symbol
+POS,Possessive ending,VERB,verb
+PRP,Personal pronoun,X,other
+PRP$,Possessive pronoun,SPACE,space
+RB,Adverb,,
+RBR,"Adverb, comparative",,
+RBS,"Adverb, superlative",,
+RP,Particle,,
+SYM,Symbol,,
+TO,to,,
+UH,Interjection,,
+VB,"Verb, base form",,
+VBD,"Verb, past tense",,
+VBG,"Verb, gerund or present participle",,
+VBN,"Verb, past participle",,
+VBP,"Verb, non-3rd person singular present",,
+VBZ,"Verb, 3rd person singular present",,
+WDT,Wh-determiner,,
+WP,Wh-pronoun,,
+WP$,Possessive wn-pronoun,,
+WRB,Wh-adverb,,
