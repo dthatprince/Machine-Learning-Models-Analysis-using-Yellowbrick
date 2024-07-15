@@ -1,5 +1,5 @@
 # Machine-Learning-Models-Analysis-using-Yellowbrick
-This is my API documentation for Yellowbrick Visualizers and API! It contains a complete listing of the currently available, production-ready visualizers along with code examples of how to use them. 
+This is my documentation for Yellowbrick Visualizers and API! It contains a complete listing of the currently available, production-ready visualizers along with code examples of how to use them. 
 
 
 # Yellowbrick's Features
